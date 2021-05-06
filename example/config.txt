@@ -1,0 +1,2 @@
+Prefix plugins/CSVUnPad/example
+Plugin CSVUnPad inputfile padded.csv outputfile unpadded.csv
