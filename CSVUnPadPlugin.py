@@ -22,4 +22,4 @@ class CSVUnPadPlugin:
          #self.contents += self.alldata[i]
          #if (i != len(self.alldata)-1):
          #    self.contents += ','
-      g.write(self.contents)
+         #g.write(self.contents)
